@@ -29,7 +29,7 @@ A Research & Development engineer passionate about Data Science :bar_chart:. I l
 <img title="linux" alt="linux" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/linux-tux.svg" width="40" />
 </p>
 
-are some ideas to get you started:
+
 
 
 <br>
