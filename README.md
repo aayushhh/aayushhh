@@ -23,38 +23,14 @@ A Research & Development engineer passionate about Data Science :bar_chart:. I l
 <img title="Git" alt="Git" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/git.svg" width="70" height="40" />
 <img title="JavaScript" alt="JS" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/javascript-js-seeklogo.com.svg" width="40" />
 <img title="NodeJs" alt="NodeJs" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/iconfinder_nodejs-new-pantone-black_1012818.png" width="40" height="40" />	
-<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/aws.svg" width="60" height="40" />
 <img title="React" alt="React" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/iconfinder_React.js_logo_1174949.png" width="60" height="40" />
-<img title="FireBase" alt="Firebase" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/iconfinder_google_firebase_1175544.png" width="40" />
+<img title="FireBase" alt="Firebase" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/iconfinder_google_firebase_1175544.png" width="40" height="40" />
 </p>
 <img title="linux" alt="linux" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/linux-tux.svg" width="40" />
 </p>
 
-<!--
-**Thomas-George-T/Thomas-George-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-T
-Here are some ideas to get you started:
+are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<details><summary><b>My Recent posts on Medium!</b></summary>
-<--
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0" alt="Recent Article on medium 1"></img></a>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/1" alt="Recent Article on medium 2"></img></a>   
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/2" alt="Recent Article on medium 3"></img></a>  
-    
-</details> 
--->
 
 <br>
     
@@ -77,14 +53,3 @@ Here are some ideas to get you started:
 <!--
 **aayushhh/aayushhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
