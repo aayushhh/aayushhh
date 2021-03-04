@@ -17,14 +17,15 @@ A Research & Development engineer passionate about Data Science :bar_chart:. I l
 
 <p align="center">
 
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/python.svg" width="40" height="40" />
-	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/mysql.svg" width="40" height="40" />
-	<img title="Bitbucket" alt="Bitbucket" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/bitbucket.svg" height="40" />
-	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/git.svg" width="70" height="40" />
-	<img title="Bamboo" alt="Bamboo" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/bamboo.svg" width="40" height="40" />	
-	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/aws.svg" width="60" height="40" />
-	<img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/kafka.svg" width="105" height="40" />
-	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/linux-tux.svg" width="40" />
+<img title="Python" alt="Python" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/python.svg" width="40" height="40" />
+<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/mysql.svg" width="40" height="40" />
+<img title="Bitbucket" alt="Bitbucket" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/bitbucket.svg" height="40" />
+<img title="Git" alt="Git" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/git.svg" width="70" height="40" />
+<img title="JavaScript" alt="JS" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/javascript-js-seeklogo.com.svg" width="40" />
+<img title="Bamboo" alt="Bamboo" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/bamboo.svg" width="40" height="40" />	
+<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/aws.svg" width="60" height="40" />
+<img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/kafka.svg" width="105" height="40" />
+<img title="linux" alt="linux" src="https://raw.githubusercontent.com/aayushhh/aayushhh/master/assets/linux-tux.svg" width="40" />
 </p>
 
 <!--
