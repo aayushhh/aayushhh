@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-
-
-![ViewCount](http://bit.ly/Aayush-Github-Visits)
+![](https://komarev.com/ghpvc/?username=aayushhh&label=PROFILE+VIEWS)
 
 ### Hi there 👋 I'm Aayush Rajput,
 
